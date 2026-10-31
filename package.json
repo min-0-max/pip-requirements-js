@@ -1,6 +1,6 @@
 {
     "name": "pip-requirements-js",
-    "version": "1.0.3",
+    "version": "1.0.3-polyspec.1",
     "description": "A robust parser for requirements.txt files",
     "keywords": [
         "pip",
